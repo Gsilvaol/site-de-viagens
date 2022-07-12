@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster|Montserrat');
+
+header{
+	width: 100%;
+	height: 300px;
+	
+}
+
+nav{
+	background-color: black;
+	width: 100%;
+	text-align: center;
+	padding:15px;
+	box-sizing: border-box;
+}
+
+a{
+	color: #FF5722;
+	text-decoration: none;
+}
+
+.amenu:link, .amenu:visited{
+	color: #7FFFD4;
+	padding-right: 60px;
+	text-transform: initial;
+	font: 1.5em 'Montserrat', sans-serif;
+	
+}
+
+h1, h2{
+	color: #fb8c00;
+	font: 4em 'Lobster', cursive;
+}
+
+#span-on{
+	color: #fb8c00;
+}
+
+p, label, legend{
+	color: white;
+	font-size: 1.2em;
+	font-family: 'Montserrat', sans-serif;
+	text-align: justify;
+	margin: 10px 0px;
+
+}
+
+#pag_top{
+	background-color: orange;
+	padding: 30px;
+}
+
+#pag_prom{
+	background-color: #F0F0F0;
+	padding: 30px;
+}
+
+.img-tabela{
+	width: 226px;
+	height: 226px;
+}
+
+#tr-nomes{
+	font: 1.2em 'Montserrat', sans-serif;
+	text-align: center;
+	font-weight: bold;
+}
+
+#tr-precos{
+	font: 1.4em 'Montserrat', sans-serif;
+	text-align: center;
+	font-weight: bold;
+	color: red;
+}
+
+
+footer{
+	width: 100%;
+	background-color: #5D4037;
+	padding: 10px;
+	
+}
+
+p1{
+	color: black;
+	font-size: 1.2em;
+	font-family: 'Montserrat', sans-serif;
+	text-align: justify;
+	margin: 10px 0px;
+
+
+}
