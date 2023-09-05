@@ -24,4 +24,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Primeiro site desenvolvido na faculdade usando HTML E CSS.
 
-- [visite o projeto online] (https://gsilvaol.github.io/nlw-setup/)
+- [visite o projeto online] (https://gsilvaol.github.io/site-de-viagens/)
